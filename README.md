@@ -1,6 +1,6 @@
 # Abdullah Malik — Portfolio Website
 
-A personal portfolio site for Abdullah Malik, a full-stack developer from Lahore, Pakistan. Built with plain HTML, CSS, and JavaScript — no frameworks, no build step.
+Hi I'm Abdullah Malik a full-stack developer from Lahore, Pakistan. This Project Built with plain HTML, CSS, and JavaScript — no frameworks, no build step.
 
 ## Live Sections
 

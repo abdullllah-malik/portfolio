@@ -1,0 +1,6 @@
+Put these two files in this folder before deploying:
+
+1. profile.png   -> your photo (used as hero image + social preview image)
+2. favicon.ico   -> your site icon (used as browser tab icon)
+
+Once added, the site will pick them up automatically — no code changes needed.
